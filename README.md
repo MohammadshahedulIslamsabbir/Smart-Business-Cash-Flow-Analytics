@@ -35,8 +35,7 @@ Automated Data Entry System
 
 
 ## Dashboard Preview
-![Power BI Dashboard](Dashboard.png)
-
+![Dashboard Preview](./Dashboard.png)
 
 
 Author- CSE Student 
