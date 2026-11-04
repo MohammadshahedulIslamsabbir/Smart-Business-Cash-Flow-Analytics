@@ -1,0 +1,51 @@
+﻿customer_id,customer_name,city,customer_type,credit_days,credit_limit_bdt,active_status
+CUST001,Rahman Metals,Chattogram,Wholesale,15,"3,000,000.00",Active
+CUST002,Rahman Traders,Dhaka,Manufacturer,30,"500,000.00",Active
+CUST003,Rahman Aluminum,Narayanganj,Fabricator,45,"500,000.00",Active
+CUST004,Rahman Enterprise,Gazipur,Distributor,60,"3,000,000.00",Active
+CUST005,Rahman Industries,Cumilla,Wholesale,15,"1,000,000.00",Active
+CUST006,Rahman Corporation,Sylhet,Manufacturer,30,"750,000.00",Active
+CUST007,Rahman Engineering,Khulna,Fabricator,45,"750,000.00",Active
+CUST008,Rahman Suppliers,Rajshahi,Distributor,60,"750,000.00",Active
+CUST009,Rahman Trading Co.,Bogura,Wholesale,15,"3,000,000.00",Active
+CUST010,Rahman Hardware,Feni,Manufacturer,30,"500,000.00",Active
+CUST011,Karim Metals,Chattogram,Fabricator,45,"3,000,000.00",Active
+CUST012,Karim Traders,Dhaka,Distributor,60,"3,000,000.00",Active
+CUST013,Karim Aluminum,Narayanganj,Wholesale,15,"2,000,000.00",Active
+CUST014,Karim Enterprise,Gazipur,Manufacturer,30,"500,000.00",Active
+CUST015,Karim Industries,Cumilla,Fabricator,45,"2,000,000.00",Active
+CUST016,Karim Corporation,Sylhet,Distributor,60,"1,500,000.00",Active
+CUST017,Karim Engineering,Khulna,Wholesale,15,"500,000.00",Active
+CUST018,Karim Suppliers,Rajshahi,Manufacturer,30,"500,000.00",Active
+CUST019,Karim Trading Co.,Bogura,Fabricator,45,"500,000.00",Active
+CUST020,Karim Hardware,Feni,Distributor,60,"750,000.00",Active
+CUST021,Bengal Metals,Chattogram,Wholesale,15,"750,000.00",Active
+CUST022,Bengal Traders,Dhaka,Manufacturer,30,"2,000,000.00",Active
+CUST023,Bengal Aluminum,Narayanganj,Fabricator,45,"2,000,000.00",Active
+CUST024,Bengal Enterprise,Gazipur,Distributor,60,"500,000.00",Active
+CUST025,Bengal Industries,Cumilla,Wholesale,15,"2,000,000.00",Active
+CUST026,Bengal Corporation,Sylhet,Manufacturer,30,"750,000.00",Active
+CUST027,Bengal Engineering,Khulna,Fabricator,45,"3,000,000.00",Active
+CUST028,Bengal Suppliers,Rajshahi,Distributor,60,"3,000,000.00",Active
+CUST029,Bengal Trading Co.,Bogura,Wholesale,15,"3,000,000.00",Active
+CUST030,Bengal Hardware,Feni,Manufacturer,30,"2,000,000.00",Active
+CUST031,Noor Metals,Chattogram,Fabricator,45,"1,500,000.00",Active
+CUST032,Noor Traders,Dhaka,Distributor,60,"750,000.00",Active
+CUST033,Noor Aluminum,Narayanganj,Wholesale,15,"1,500,000.00",Active
+CUST034,Noor Enterprise,Gazipur,Manufacturer,30,"2,000,000.00",Active
+CUST035,Noor Industries,Cumilla,Fabricator,45,"1,000,000.00",Active
+CUST036,Noor Corporation,Sylhet,Distributor,60,"500,000.00",Active
+CUST037,Noor Engineering,Khulna,Wholesale,15,"750,000.00",Active
+CUST038,Noor Suppliers,Rajshahi,Manufacturer,30,"3,000,000.00",Active
+CUST039,Noor Trading Co.,Bogura,Fabricator,45,"1,500,000.00",Active
+CUST040,Noor Hardware,Feni,Distributor,60,"1,000,000.00",Active
+CUST041,Eastern Metals,Chattogram,Wholesale,15,"1,000,000.00",Active
+CUST042,Eastern Traders,Dhaka,Manufacturer,30,"750,000.00",Active
+CUST043,Eastern Aluminum,Narayanganj,Fabricator,45,"750,000.00",Active
+CUST044,Eastern Enterprise,Gazipur,Distributor,60,"1,000,000.00",Active
+CUST045,Eastern Industries,Cumilla,Wholesale,15,"500,000.00",Active
+CUST046,Eastern Corporation,Sylhet,Manufacturer,30,"500,000.00",Active
+CUST047,Eastern Engineering,Khulna,Fabricator,45,"1,500,000.00",Active
+CUST048,Eastern Suppliers,Rajshahi,Distributor,60,"500,000.00",Active
+CUST049,Eastern Trading Co.,Bogura,Wholesale,15,"1,000,000.00",Active
+CUST050,Eastern Hardware,Feni,Manufacturer,30,"1,000,000.00",Active
